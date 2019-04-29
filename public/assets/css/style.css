@@ -1,0 +1,24 @@
+.title {
+    text-align: center;
+}
+
+body{
+    background-color: blue;
+}
+
+/* #submit{
+    float: left;
+} */
+
+#adding-block{
+    text-align: center;
+}
+
+.devoured{
+   text-align: center;
+}
+
+/* Add section */
+#add{
+    text-align: center;
+}
