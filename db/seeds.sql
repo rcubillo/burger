@@ -1,2 +1,2 @@
-INSERT INTO burgers (burger_name, devoured) VALUES ('Kangreburger', true);
-INSERT INTO burgers (burger_name, devoured) VALUES ('CheeseBurger', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Kangreburger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('CheeseBurger', false);
