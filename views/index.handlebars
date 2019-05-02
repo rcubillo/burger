@@ -24,13 +24,13 @@
     <div class="col-sm-6">
       {{!-- Burgers that han been devoured --}}
       <h2>Burgers that are devoured!</h2>
-
       <ul>
         {{#each burgers}}
         {{#if devoured}}
+        <br>
         {{this.id}}
         {{this.burger_name}}
-        {{> burgers/burger-block devoured=false}}
+        {{!-- {{> burgers/burger-block devoured=false}} --}}
         {{/if}}
         {{/each}}
       </ul>
