@@ -1,4 +1,4 @@
-# Node Express Handlebars
+# :hamburger: Burger App:hamburger:
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
