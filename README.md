@@ -21,10 +21,6 @@
 * Each burger in the waiting area also has a `Devour it!` button. When the user clicks it, the burger will move to the right side of the page.
 
 
-## Instructions
-
-
-
 ## Contributing Guidelines
 
 All contributions and suggestions are welcome! For direct contributions, please fork the repository and file a pull request.
